@@ -4,7 +4,7 @@
         "tag": "products",
         "patterns": [
           "What types of products do you manufacture and sell?",
-          "What products are available?"
+          "What products are available?",
           "I want to order corrugated box, how can i order?"
         ],
         "responses": [

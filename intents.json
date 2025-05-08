@@ -4,8 +4,7 @@
         "tag": "products",
         "patterns": [
           "What types of products do you manufacture and sell?",
-          "What products are available?",
-          "I want to order corrugated box, how can i order?"
+          "What products are available?"
         ],
         "responses": [
           "We manufacture and sell a wide range of industrial packaging supplies, including corrugated boxes, lumber, plywood, crates, pallets, and packaging products such as adhesive tapes, bubble wrap, stretch films, and more."

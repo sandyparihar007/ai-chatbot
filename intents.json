@@ -1,0 +1,35 @@
+{
+    "intents": [
+      {
+        "tag": "products",
+        "patterns": [
+          "What types of products do you manufacture and sell?",
+          "What products are available?"
+        ],
+        "responses": [
+          "We manufacture and sell a wide range of industrial packaging supplies, including corrugated boxes, lumber, plywood, crates, pallets, and packaging products such as adhesive tapes, bubble wrap, stretch films, and more."
+        ]
+      },
+      {
+        "tag": "customization",
+        "patterns": [
+          "Are your products customizable?",
+          "Can I get custom sizes?",
+          "Do you offer customization?"
+        ],
+        "responses": [
+          "Yes, we offer customization for most of our products, including corrugated boxes, crates, and pallets. You can specify dimensions, strength, printing, or other requirements, and we’ll tailor the products to your needs."
+        ]
+      },
+      {
+        "tag": "industries",
+        "patterns": [
+          "What industries do you serve?",
+          "Which sectors do you work with?"
+        ],
+        "responses": [
+          "We serve industries such as manufacturing, logistics, e-commerce, automotive, pharmaceuticals, food and beverage, electronics, and more."
+        ]
+      }
+    ]
+  }
